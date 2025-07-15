@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-15T14:29:14 IST" name="Suite" finished-at="2025-07-15T14:30:38 IST" duration-ms="84427">
+    <groups>
+    </groups>
+    <test started-at="2025-07-15T14:29:14 IST" name="Test" finished-at="2025-07-15T14:30:38 IST" duration-ms="84427">
+      <class name="Mytests.Gurutest">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:Mytests.Gurutest@515aebb0]" started-at="2025-07-15T14:29:14 IST" name="openapp" finished-at="2025-07-15T14:30:13 IST" duration-ms="59476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="login()[pri:1, instance:Mytests.Gurutest@515aebb0]" started-at="2025-07-15T14:30:13 IST" name="login" finished-at="2025-07-15T14:30:14 IST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="selectnewcustomer()[pri:2, instance:Mytests.Gurutest@515aebb0]" started-at="2025-07-15T14:30:14 IST" name="selectnewcustomer" finished-at="2025-07-15T14:30:22 IST" duration-ms="8603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectnewcustomer -->
+        <test-method signature="editcustomer()[pri:3, instance:Mytests.Gurutest@515aebb0]" started-at="2025-07-15T14:30:22 IST" name="editcustomer" finished-at="2025-07-15T14:30:23 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editcustomer -->
+        <test-method signature="deletecustomer()[pri:4, instance:Mytests.Gurutest@515aebb0]" started-at="2025-07-15T14:30:23 IST" name="deletecustomer" finished-at="2025-07-15T14:30:37 IST" duration-ms="13544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Mytests.Gurutest@515aebb0]" started-at="2025-07-15T14:30:37 IST" name="closeapp" finished-at="2025-07-15T14:30:38 IST" duration-ms="1625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Mytests.Gurutest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import Pages.Homepage;
 import Pages.Loginpage;
 
-//anjana
+//anjana //sweety
 @Listeners(Reports.Extentreportsmanager.class)
 
 public class Gurutest extends Basetest{
